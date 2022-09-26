@@ -1,16 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Carol!
 </br>
 
-- 👩‍💻 I’m a Junior Developer.
-- 📚 I’m interested in books, culture and data bias.
-- 👩‍🎓 Currently I'm learning HTML, CSS, JavaScript and Swift.
+- 👩‍💻 I’m a Junior Front-end Web Developer.
+- 📚 I’m interested in books, culture and RPG.
+- 👩‍🎓 Currently I'm learning HTML, CSS and JavaScript.
 - 🔎 Curiosities: I speak 4 languages and I'm on the process of a career transition towards programing.
 
 ----
 
 ### 🧰 Main Tools
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40px"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/4cf7d821fc99da2ba516dc0b1965d2528efd97f7/icons/vscode/vscode-plain-wordmark.svg" width="40px"> <img src="https://www.svgrepo.com/show/354421/swift.svg" width="40px"> <img src="https://www.svgrepo.com/show/374194/xcode.svg" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40px"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/4cf7d821fc99da2ba516dc0b1965d2528efd97f7/icons/vscode/vscode-plain-wordmark.svg" width="40px">
 </div>  
 
 ----
