@@ -10,7 +10,7 @@
 
 ### 🧰 Main Tools
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40px"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/4cf7d821fc99da2ba516dc0b1965d2528efd97f7/icons/vscode/vscode-plain-wordmark.svg" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40px"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" width="40px"> <img src="https://www.svgrepo.com/show/349374/git.svg" width="40px">
 </div>  
 
 ----
@@ -24,5 +24,3 @@
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
  </div>
- 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
