@@ -1,9 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Carol!
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> I'm Caroline, but you can call me Carol!
 </br>
 
-- :woman_technologist: ( I’m a Front-End Developer.
+- :woman_technologist: I’m a Front-End Developer.
 - :hearts: I love reading, experiencing cultures and dancing.
-- :mag: Curiosities: I speak 4 languages and I'm on the process of a career transition towards programing.
+- :mag: Curiosities: I speak 4 languages (portuguese, spanish, english and serbian).
 
 <br>
 
