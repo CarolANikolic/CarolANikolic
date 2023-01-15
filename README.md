@@ -12,7 +12,7 @@
 
 <h3> 🧰 Languages and Tools <h3>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40px"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" width="40px"> <img src="https://www.svgrepo.com/show/349374/git.svg" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="js logo" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5 logo" width="40px"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40px"> <img src="https://www.svgrepo.com/show/349374/git.svg" alt="git logo" width="40px"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind logo" width="40px">
 </div> 
 
 <br/>
