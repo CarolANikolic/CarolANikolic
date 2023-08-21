@@ -1,43 +1,38 @@
-<h1 align="left"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>&nbsp; I'm Caroline Almeida Nikolić</h1>
-<h3>But you can call me Carol!</h3>
+<h1 align="left"> Hi, I'm Caroline!</h1>
+<h3>But you can call me Carol! I'm from São Paulo, Brazil, and currently live in Belgrade Serbia</h3>
 
 <br>
 
 - :woman_technologist: I’m a Front-End Developer.
-- :book: I love reading during my free time.
+- :nerd_face: I'm currently learning Next.js.
 - :mag: Curiosities: I speak 4 languages (portuguese, spanish, english and serbian).
 
 <br>
 
-
 <h3> 🧰 Languages and Tools <h3>
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="js logo" width="40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5 logo" width="40px"> <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="css3" width="40px"> <img src="https://www.svgrepo.com/show/349374/git.svg" alt="git logo" width="40px"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind logo" width="40px">
+<div align="left">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" width="90px">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80px">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js badge" width="110px">
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind badge" width="120px"> 
+ <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next badge" width="100px">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git badge" width="80px">
 </div> 
 
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=carolanikolic&show_icons=true&locale=en&layout=compact&theme=dracula" alt="carolanikolic"/></p>
 
+<p align="center">&nbsp;<img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=carolanikolic&show_icons=true&locale=en&layout=compact&theme=white" alt="Caroline Almeida Nikolic"/></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carolanikolic&&show_icons=true&locale=en&theme=dracula" alt="carolanikolic"/></p>
+<div align="center">&nbsp;<img align="center" height="300px" src="https://streak-stats.demolab.com/?user=carolanikolic" alt="Caroline Almeida Nikolic"/></div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
  
-
- 
- <h3>💬 Let's get in touch</h3>
+ <h3>💬 Get in touch</h3>
  <div>
    <a href="mailto:carolnikolic@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
    </a>
-   <a href="https://www.linkedin.com/in/caroline-almeida-nikolic-a605491b0/" target="blank">
+   <a href="https://www.linkedin.com/in/caroline-nikolic/" target="blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
  </div>
