@@ -1,11 +1,12 @@
 <h1 align="left"> Hi, I'm Caroline!</h1>
-<h3>But you can call me Carol! I'm from São Paulo, Brazil, and currently live in Belgrade Serbia</h3>
+<h3>But you can call me Carol!</h3>
 
 <br>
 
-- :woman_technologist: I’m a Front-End Developer.
-- :nerd_face: I'm currently learning Next.js.
-- :mag: Curiosities: I speak 4 languages (portuguese, spanish, english and serbian).
+- :woman_technologist: I’m a Front-End Developer with hands-on experience in creating websites.
+- :nerd_face: My true passion lies in Quality Assurance (QA). I learned programming to gain a deeper understanding of how software works, so I can approach testing with deeper insight.
+- :globe_with_meridians: Fun fact: I speak 4 languages (Portuguese, Spanish, English, and Serbian).
+
 
 <br>
 
