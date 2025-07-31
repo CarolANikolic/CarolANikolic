@@ -30,9 +30,7 @@
 
 <br/>
 
-<p align="center">&nbsp;<img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=carolanikolic&show_icons=true&locale=en&layout=compact&theme=white" alt="Caroline Almeida Nikolic"/></p>
 
-<div align="center">&nbsp;<img align="center" height="300px" src="https://streak-stats.demolab.com/?user=carolanikolic" alt="Caroline Almeida Nikolic"/></div>
 
 <br/>
  
