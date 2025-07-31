@@ -3,7 +3,7 @@
 
 <br>
 
-- :woman_technologist: I’m a Front-End Developer with hands-on experience in creating websites.
+- :woman_technologist: I’m a Front-End Developer and QA Tester with hands-on experience in creating websites.
 - :nerd_face: My true passion lies in Quality Assurance (QA). I learned programming to gain a deeper understanding of how software works, so I can approach testing with deeper insight.
 - :globe_with_meridians: Fun fact: I speak 4 languages (Portuguese, Spanish, English, and Serbian).
 
